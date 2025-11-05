@@ -84,7 +84,7 @@ You can open and run this notebook directly on Google Colab:
 ---
 
 ## 🧩 Author
-**Faith Nelima- Data and Policy Analyst**  
+**Faith N. Weyombo- Data and Policy Analyst**  
 Portfolio: [github.com/fjnelima-pixel](https://github.com/fjnelima-pixel)
 
 ---
