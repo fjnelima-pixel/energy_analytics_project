@@ -1,12 +1,10 @@
-# ⚡ Energy Analytics Project — Africa
+# Energy Analytics Project — Africa
 
-### 📊 Exploring the Relationship Between Energy Use and Economic Growth
+### Exploring the Relationship Between Energy Use and Economic Growth
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/energy_analytics_project/blob/main/Energy_Analytics.ipynb)
 
----
-
-## 📘 Overview
+## Overview
 
 This project explores the relationship between **energy consumption** and **economic growth** across six African countries from different regions, using real-world data from the **World Bank**.  
 
@@ -16,7 +14,7 @@ This is part of a data analytics portfolio demonstrating practical applications 
 
 ---
 
-## 🌍 Countries Covered
+## Countries Covered
 - **Kenya** (East Africa)  
 - **Nigeria** (West Africa)  
 - **Egypt** (North Africa)  
@@ -24,18 +22,14 @@ This is part of a data analytics portfolio demonstrating practical applications 
 - **Ethiopia** (Horn of Africa)  
 - **Ghana** (West Africa)
 
----
-
-## 🧰 Tools and Libraries
+## Tools and Libraries
 - **Python** (Google Colab)  
 - **Pandas** – Data manipulation  
 - **Seaborn & Matplotlib** – Visualization  
 - **Statsmodels** – Econometric modeling  
 - **World Bank API (wbdata)** – Data retrieval  
 
----
-
-## 📈 Methodology
+## Methodology
 
 1. **Data Collection**  
    - Energy use (kg of oil equivalent per capita) and GDP per capita (USD) were retrieved from the **World Bank API** for 2000–2023.  
@@ -47,9 +41,7 @@ This is part of a data analytics portfolio demonstrating practical applications 
    - **Bivariate correlation** to measure direct relationships.  
    - **OLS regression** to quantify the impact of energy use on GDP.
 
----
-
-## 🧮 Key Findings
+## Key Findings
 
 - Energy use per capita is **positively correlated** with GDP per capita across all six countries.  
 - The OLS regression indicates that **higher energy use predicts higher income levels**, suggesting energy access supports productivity and growth.  
@@ -58,15 +50,11 @@ This is part of a data analytics portfolio demonstrating practical applications 
 
 *(Full regression summary tables and plots are available in the notebook.)*
 
----
-
-## 🧠 Interpretation
+## Interpretation
 
 Energy consumption is a key enabler of economic activity.  
 Countries with efficient and diversified energy systems achieve stronger and more sustainable economic growth.  
 Policies enhancing access to reliable, affordable, and clean energy can therefore play a critical role in achieving inclusive growth.
-
----
 
 ## 💻 Run it Yourself
 
@@ -74,19 +62,13 @@ You can open and run this notebook directly on Google Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/energy_analytics_project/blob/main/Energy_Analytics.ipynb)
 
----
-
-## 🗂️ Data Source
+## Data Source
 - **World Development Indicators (World Bank, 2024)**  
   - Indicator 1: `EG.USE.PCAP.KG.OE` — Energy use (kg of oil equivalent per capita)  
   - Indicator 2: `NY.GDP.PCAP.CD` — GDP per capita (current US$)
 
----
-
-## 🧩 Author
+## Author
 **Faith N. Weyombo- Data and Policy Analyst**  
 Portfolio: [github.com/fjnelima-pixel](https://github.com/fjnelima-pixel)
 
----
 
-### ⭐ If you found this project useful, please consider giving it a star on GitHub!
